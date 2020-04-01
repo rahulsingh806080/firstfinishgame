@@ -2,9 +2,7 @@
   "name": "@rcg/common",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
-  "repository": "https://github.com/shanmugharajk/react-card-game.git",
   "version": "1.0.0",
-  "license": "MIT",
   "scripts": {
     "build": "rimraf ./dist && tsc"
   },
