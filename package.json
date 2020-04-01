@@ -11,6 +11,7 @@
     "run:server": "cd ./packages/game-server && yarn start",
     "build:client": "cd ./packages/web && yarn run build",
     "build:common": "cd ./packages/common && yarn run build",
-    "build:server": "cd ./packages/game-server && yarn run build"
+    "build:server": "cd ./packages/game-server && yarn run build",
+    "start": "cd ./packages/web && yarn start"
   }
 }
